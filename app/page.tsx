@@ -4,4 +4,4 @@ export const metadata = {
 
 export default function Page() {
   return <h1>App Routerrrrr</h1>;
-}
+
